@@ -15,7 +15,7 @@
 1. Select **Sign in**.
 
 
-    ![Ingresar al portal de Azure](../../Linked_Image_Files/lab01/Captura.png)
+    ![Ingresar al portal de Azure](../../Linked_Image_Files/lab01/Captura.PNG)
 
     **Note**:
     If this is your first time signing in to the Azure Portal, a dialog box will appear offering a tour of the portal. Select Get Started to begin using the portal. 
