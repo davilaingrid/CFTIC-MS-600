@@ -27,6 +27,8 @@ In this task, you will create a new Active Directory organization so you will un
 
 1. Expand the left navigation pane, select **Azure Active Directory**.
 
+![Azure Active Directory](../../Linked_Image_Files/lab01/Captura1.PNG)
+
 1. Select **Create a tenant** located in the right side of the portal.
 
 1. From the **Basics** tab, perform the following actions:
