@@ -50,7 +50,7 @@ In this task, you will create a new Active Directory organization so you will un
 
     1. Select the **Country or region**.
 
-        ![Configuration tab with organization name, initital domain name and country/region selected and review and create button to select.](../../Linked_Image_Files/l01_exercise_1_task_2_image_2.png)
+        ![Configuration tab with organization name, initital domain name and country/region selected and review and create button to select.](../../Linked_Image_Files/lab01/Captura4.PNG)
 
     1. Select **Review + create**.
 
