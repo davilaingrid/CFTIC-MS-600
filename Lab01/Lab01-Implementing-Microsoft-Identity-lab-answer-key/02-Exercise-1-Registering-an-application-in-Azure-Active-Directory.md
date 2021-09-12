@@ -56,7 +56,7 @@ In this task, you will create a new Active Directory organization so you will un
 
 1. Ensure settings are correct and validation passed.
 
-    ![Review and create tab with details of new directory being created for confirmation with button to create and go to previous.](../../Linked_Image_Files/l01_exercise_1_task_2_image_3.png)
+    ![Review and create tab with details of new directory being created for confirmation with button to create and go to previous.](../../Linked_Image_Files/lab01/Captura5.PNG)
 
 1. Select **Create**.
 
