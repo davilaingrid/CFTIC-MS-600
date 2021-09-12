@@ -35,9 +35,12 @@ In this task, you will create a new Active Directory organization so you will un
 
     1. In the **Select a tenant type** section, select **Azure Active Directory**.
 
+    ![Azure Active Directory1](../../Linked_Image_Files/lab01/Captura2.PNG)
+
+
     1. Select **Next: Configuration**.
 
-    ![Create a directory pane with basics tab selected showing the Azure Active Directory selected for the Directory type.](../../Linked_Image_Files/l01_exercise_1_task_2_image_1.png)
+    ![Create a directory pane with basics tab selected showing the Azure Active Directory selected for the Directory type.](../../Linked_Image_Files/lab01/Captura3.PNG)
 
 1. From the **Configuration** tab, perform the following actions:
 
