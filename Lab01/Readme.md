@@ -1,6 +1,5 @@
 ﻿# Ejercicio 1
 
-
 ![Captura](ejercicio1/Captura.PNG)
 
 ![Captura1](ejercicio1/Captura1.PNG)
