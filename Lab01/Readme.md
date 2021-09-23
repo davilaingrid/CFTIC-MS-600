@@ -45,7 +45,6 @@
 
 # Ejercicio 2
 
-
 ![Captura](ejercicio2/images/Captura.PNG)
 
 ![Captura1](ejercicio2/images/Captura1.PNG)
