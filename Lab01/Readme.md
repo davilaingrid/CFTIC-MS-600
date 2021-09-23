@@ -117,7 +117,10 @@
 
 ![Captura16](ejercicio2/images/Captura36.PNG)
 
+
 # Ejercicio 3
+
+![Captura](ejercicio3/images/Captura.PNG)
 
 ![Captura1](ejercicio3/images/Captura1.PNG)
 
