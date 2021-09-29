@@ -1,0 +1,115 @@
+{
+    "responses": [
+        {
+            "id": "1",
+            "status": 201,
+            "headers": {
+                "Location": "https://davilaingrid-my.sharepoint.com/personal/davilaingrid_davilaingrid_onmicrosoft_com/_api/v2.0/drive/items/01EOCRBGJOYPO4RS2VRBCIESGR3U7U7XDY",
+                "Cache-Control": "no-cache",
+                "OData-Version": "4.0",
+                "Content-Type": "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8"
+            },
+            "body": {
+                "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('1f9f0d0c-1083-41b2-ae00-885a570ac318')/drive/root/children/$entity",
+                "createdDateTime": "2021-09-15T12:36:46Z",
+                "eTag": "\"{C8DDC32E-55CB-4488-8248-D1DD3F4FDC78},1\"",
+                "id": "01EOCRBGJOYPO4RS2VRBCIESGR3U7U7XDY",
+                "lastModifiedDateTime": "2021-09-15T12:36:46Z",
+                "name": "Evidencias",
+                "webUrl": "https://davilaingrid-my.sharepoint.com/personal/davilaingrid_davilaingrid_onmicrosoft_com/Documents/Evidencias",
+                "cTag": "\"c:{C8DDC32E-55CB-4488-8248-D1DD3F4FDC78},0\"",
+                "size": 0,
+                "createdBy": {
+                    "application": {
+                        "id": "de8bc8b5-d9f9-48b1-a8ad-b748da725064",
+                        "displayName": "Graph Explorer"
+                    },
+                    "user": {
+                        "email": "davilaingrid@davilaingrid.onmicrosoft.com",
+                        "id": "1f9f0d0c-1083-41b2-ae00-885a570ac318",
+                        "displayName": "FNU LNU"
+                    }
+                },
+                "lastModifiedBy": {
+                    "application": {
+                        "id": "de8bc8b5-d9f9-48b1-a8ad-b748da725064",
+                        "displayName": "Graph Explorer"
+                    },
+                    "user": {
+                        "email": "davilaingrid@davilaingrid.onmicrosoft.com",
+                        "id": "1f9f0d0c-1083-41b2-ae00-885a570ac318",
+                        "displayName": "FNU LNU"
+                    }
+                },
+                "parentReference": {
+                    "driveId": "b!caBeJH0BJEaRlyobw1xSuBBvg3gwNZdDiJHljpaz_GZTurs3bcClSIdOloU7TKiE",
+                    "driveType": "business",
+                    "id": "01EOCRBGN6Y2GOVW7725BZO354PWSELRRZ",
+                    "path": "/drive/root:"
+                },
+                "fileSystemInfo": {
+                    "createdDateTime": "2021-09-15T12:36:46Z",
+                    "lastModifiedDateTime": "2021-09-15T12:36:46Z"
+                },
+                "folder": {
+                    "childCount": 0
+                }
+            }
+        },
+        {
+            "id": "2",
+            "status": 200,
+            "headers": {
+                "Cache-Control": "no-cache",
+                "OData-Version": "4.0",
+                "Content-Type": "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8"
+            },
+            "body": {
+                "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('1f9f0d0c-1083-41b2-ae00-885a570ac318')/drive/root/children/$entity",
+                "createdDateTime": "2021-09-15T12:36:46Z",
+                "eTag": "\"{C8DDC32E-55CB-4488-8248-D1DD3F4FDC78},1\"",
+                "id": "01EOCRBGJOYPO4RS2VRBCIESGR3U7U7XDY",
+                "lastModifiedDateTime": "2021-09-15T12:36:46Z",
+                "name": "Evidencias",
+                "webUrl": "https://davilaingrid-my.sharepoint.com/personal/davilaingrid_davilaingrid_onmicrosoft_com/Documents/Evidencias",
+                "cTag": "\"c:{C8DDC32E-55CB-4488-8248-D1DD3F4FDC78},0\"",
+                "size": 0,
+                "createdBy": {
+                    "application": {
+                        "id": "de8bc8b5-d9f9-48b1-a8ad-b748da725064",
+                        "displayName": "Graph Explorer"
+                    },
+                    "user": {
+                        "email": "davilaingrid@davilaingrid.onmicrosoft.com",
+                        "id": "1f9f0d0c-1083-41b2-ae00-885a570ac318",
+                        "displayName": "FNU LNU"
+                    }
+                },
+                "lastModifiedBy": {
+                    "application": {
+                        "id": "de8bc8b5-d9f9-48b1-a8ad-b748da725064",
+                        "displayName": "Graph Explorer"
+                    },
+                    "user": {
+                        "email": "davilaingrid@davilaingrid.onmicrosoft.com",
+                        "id": "1f9f0d0c-1083-41b2-ae00-885a570ac318",
+                        "displayName": "FNU LNU"
+                    }
+                },
+                "parentReference": {
+                    "driveId": "b!caBeJH0BJEaRlyobw1xSuBBvg3gwNZdDiJHljpaz_GZTurs3bcClSIdOloU7TKiE",
+                    "driveType": "business",
+                    "id": "01EOCRBGN6Y2GOVW7725BZO354PWSELRRZ",
+                    "path": "/drive/root:"
+                },
+                "fileSystemInfo": {
+                    "createdDateTime": "2021-09-15T12:36:46Z",
+                    "lastModifiedDateTime": "2021-09-15T12:36:46Z"
+                },
+                "folder": {
+                    "childCount": 0
+                }
+            }
+        }
+    ]
+}

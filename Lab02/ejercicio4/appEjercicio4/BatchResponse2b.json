@@ -1,0 +1,78 @@
+{
+    "responses": [
+        {
+            "id": "2",
+            "status": 200,
+            "headers": {
+                "Cache-Control": "no-cache",
+                "OData-Version": "4.0",
+                "Content-Type": "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8"
+            },
+            "body": {
+                "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('1f9f0d0c-1083-41b2-ae00-885a570ac318')/drive/root/children/$entity",
+                "createdDateTime": "2021-09-15T13:57:10Z",
+                "eTag": "\"{A233D01A-7515-4A02-99E2-9EC35774CAD8},1\"",
+                "id": "01EOCRBGI22AZ2EFLVAJFJTYU6YNLXJSWY",
+                "lastModifiedDateTime": "2021-09-15T13:57:10Z",
+                "name": "TestBatchingFolder",
+                "webUrl": "https://davilaingrid-my.sharepoint.com/personal/davilaingrid_davilaingrid_onmicrosoft_com/Documents/TestBatchingFolder",
+                "cTag": "\"c:{A233D01A-7515-4A02-99E2-9EC35774CAD8},0\"",
+                "size": 0,
+                "createdBy": {
+                    "application": {
+                        "id": "de8bc8b5-d9f9-48b1-a8ad-b748da725064",
+                        "displayName": "Graph Explorer"
+                    },
+                    "user": {
+                        "email": "davilaingrid@davilaingrid.onmicrosoft.com",
+                        "id": "1f9f0d0c-1083-41b2-ae00-885a570ac318",
+                        "displayName": "FNU LNU"
+                    }
+                },
+                "lastModifiedBy": {
+                    "application": {
+                        "id": "de8bc8b5-d9f9-48b1-a8ad-b748da725064",
+                        "displayName": "Graph Explorer"
+                    },
+                    "user": {
+                        "email": "davilaingrid@davilaingrid.onmicrosoft.com",
+                        "id": "1f9f0d0c-1083-41b2-ae00-885a570ac318",
+                        "displayName": "FNU LNU"
+                    }
+                },
+                "parentReference": {
+                    "driveId": "b!caBeJH0BJEaRlyobw1xSuBBvg3gwNZdDiJHljpaz_GZTurs3bcClSIdOloU7TKiE",
+                    "driveType": "business",
+                    "id": "01EOCRBGN6Y2GOVW7725BZO354PWSELRRZ",
+                    "path": "/drive/root:"
+                },
+                "fileSystemInfo": {
+                    "createdDateTime": "2021-09-15T13:57:10Z",
+                    "lastModifiedDateTime": "2021-09-15T13:57:10Z"
+                },
+                "folder": {
+                    "childCount": 1
+                }
+            }
+        },
+        {
+            "id": "1",
+            "status": 409,
+            "headers": {
+                "Cache-Control": "no-cache",
+                "Content-Type": "application/json"
+            },
+            "body": {
+                "error": {
+                    "code": "nameAlreadyExists",
+                    "message": "The specified item name already exists.",
+                    "innerError": {
+                        "date": "2021-09-15T14:05:23",
+                        "request-id": "2a114cfe-6b75-465a-b3c8-f234bec0cad7",
+                        "client-request-id": "bd1d2583-791d-6aeb-a561-40cad240add6"
+                    }
+                }
+            }
+        }
+    ]
+}

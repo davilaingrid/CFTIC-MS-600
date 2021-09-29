@@ -1,0 +1,33 @@
+{
+    "url de request": 
+    [
+        {
+            "url": "https://graph.microsoft.com/v1.0/$batch",
+            "method": "POST"
+        }
+    ],
+    "requests (Body)": 
+    [
+        {
+                    "url": "/me/drive/root/children",
+                    "method": "POST",
+                    "id": "1",
+                    "body": {
+                        "name": "Evidencias",
+                        "folder": {}
+                    },
+                    "headers": {
+                        "Content-Type": "application/json"
+                    }
+                },
+                {
+                    "url": "/me/drive/root/children/Evidencias",
+                    "method": "GET",
+                    "id": "2",
+                    "DependsOn": [
+                        "1"
+                    ]
+                }
+            ]
+        
+        }
