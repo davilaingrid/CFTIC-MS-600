@@ -626,12 +626,6 @@
 
 ![Captura](ejercicio10/images/Captura15.PNG)
 
-![Captura](ejercicio10/images/Captura16.PNG)
-
-![Captura](ejercicio10/images/Captura17.PNG)
-
-![Captura](ejercicio10/images/Captura18.PNG)
-
 ![Captura](ejercicio10/images/Captura19.PNG)
 
 ![Captura](ejercicio10/images/Captura20.PNG)
@@ -671,14 +665,13 @@
 ![Captura](ejercicio10/images/Captura35.PNG)
 
 
-
 # Ejercicio 11
 
 ![Captura](ejercicio11/images/Captura.PNG)
 
 ![Captura1](ejercicio11/images/Captura1.PNG)
 
-![Captura2](ejercicio11/images/Captura2.jpg)
+![Captura2](ejercicio11/images/Captura2.PNG)
 
 ![Captura3](ejercicio11/images/Captura3.PNG)
 
@@ -720,9 +713,29 @@
 
 ![Captura](ejercicio11/images/Captura21.PNG)
 
+![Captura](ejercicio11/images/Captura21b.PNG)
+
 ![Captura](ejercicio11/images/Captura22.PNG)
 
 ![Captura](ejercicio11/images/Captura23.PNG)
 
 ![Captura](ejercicio11/images/Captura24.PNG)
 
+
+# Ejercicio 12
+
+![Captura](ejercicio12/images/Captura.PNG)
+
+![Captura1](ejercicio12/images/Captura1.PNG)
+
+![Captura1a](ejercicio12/images/Captura1a.PNG)
+
+![Captura2](ejercicio12/images/Captura2.PNG)
+
+![Captura3](ejercicio12/images/Captura3.PNG)
+
+![Captura4](ejercicio12/images/Captura4.PNG)
+
+![Captura5](ejercicio12/images/Captura5.PNG)
+
+![Captura](ejercicio12/images/Captura6.PNG)
