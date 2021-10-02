@@ -591,16 +591,84 @@
 
 ![Captura11](ejercicio10/images/Captura11.PNG)
 
+
 # Ejercicio 10
 
 ![Captura](ejercicio10/images/Captura.PNG)
 
 ![Captura1](ejercicio10/images/Captura1.PNG)
 
-![Captura2](ejercicio10/images/Captura2.PNG)
+![Captura2](ejercicio10/images/Captura2.jpg)
 
 ![Captura3](ejercicio10/images/Captura3.PNG)
 
 ![Captura4](ejercicio10/images/Captura4.PNG)
 
 ![Captura5](ejercicio10/images/Captura5.PNG)
+
+![Captura](ejercicio10/images/Captura6.PNG)
+
+![Captura](ejercicio10/images/Captura7.PNG)
+
+![Captura](ejercicio10/images/Captura8.PNG)
+
+![Captura](ejercicio10/images/Captura9.PNG)
+
+![Captura](ejercicio10/images/Captura10.PNG)
+
+![Captura](ejercicio10/images/Captura11.PNG)
+
+![Captura](ejercicio10/images/Captura12.PNG)
+
+![Captura](ejercicio10/images/Captura13.PNG)
+
+![Captura](ejercicio10/images/Captura14.PNG)
+
+![Captura](ejercicio10/images/Captura15.PNG)
+
+![Captura](ejercicio10/images/Captura16.PNG)
+
+![Captura](ejercicio10/images/Captura17.PNG)
+
+![Captura](ejercicio10/images/Captura18.PNG)
+
+![Captura](ejercicio10/images/Captura19.PNG)
+
+![Captura](ejercicio10/images/Captura20.PNG)
+
+![Captura](ejercicio10/images/Captura21.PNG)
+
+![Captura](ejercicio10/images/Captura22.PNG)
+
+![Captura](ejercicio10/images/Captura23.PNG)
+
+![Captura](ejercicio10/images/Captura24.PNG)
+
+![Captura](ejercicio10/images/Captura25.PNG)
+
+![Captura](ejercicio10/images/Captura26.PNG)
+
+![Captura](ejercicio10/images/Captura27.PNG)
+
+![Captura](ejercicio10/images/Captura28.PNG)
+
+![Captura](ejercicio10/images/Captura29.PNG)
+
+![Captura](ejercicio10/images/Captura30.PNG)
+
+![Captura](ejercicio10/images/Captura30a.PNG)
+
+![Captura](ejercicio10/images/Captura30b.PNG)
+
+![Captura](ejercicio10/images/Captura31.PNG)
+
+![Captura](ejercicio10/images/Captura32.PNG)
+
+![Captura](ejercicio10/images/Captura33.PNG)
+
+![Captura](ejercicio10/images/Captura34.PNG)
+
+![Captura](ejercicio10/images/Captura35.PNG)
+
+
+
