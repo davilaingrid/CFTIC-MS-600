@@ -1,0 +1,33 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://davilaingrid.sharepoint.com/sites/Ventas/Lists/Work%20Status/AllItems.aspx",
+      "fieldCustomizers": {
+        "PercentComplete": {
+          "id": "40727ac4-8b92-497c-9d2f-3290bb611cde",
+          "properties": {
+            "sampleText": "Value",
+            "greenMinLimit": "85",        
+            "yellowMinLimit": "70" 
+          }
+        }
+      }
+    },
+    "helloFieldCustomizer": {
+      "pageUrl": "https://davilaingrid.sharepoint.com/sites/Ventas/Lists/Work%20Status/AllItems.aspx",
+      "fieldCustomizers": {
+        "InternalFieldName": {
+          "id": "40727ac4-8b92-497c-9d2f-3290bb611cde",
+          "properties": {
+            "sampleText": "Value",
+            "greenMinLimit": "85",        
+            "yellowMinLimit": "70"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://davilaingrid.sharepoint.com/sites/Ventas/Lists/Command%20Set%20List/AllItems.aspx",
+      "customActions": {
+        "f332dd66-928b-4b4b-8f93-5000432b28ef": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "sampleTextOne": "One item is selected in the list",
+            "sampleTextTwo": "This command is always visible."
+          }
+        }
+      }
+    },
+    "commandSetDemo": {
+      "pageUrl": "https://davilaingrid.sharepoint.com/sites/Ventas/Lists/Command%20Set%20List/AllItems.aspx",
+      "customActions": {
+        "f332dd66-928b-4b4b-8f93-5000432b28ef": {
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
+          "properties": {
+            "sampleTextOne": "One item is selected in the list",
+            "sampleTextTwo": "This command is always visible."
+          }
+        }
+      }
+    }
+  }
+}
