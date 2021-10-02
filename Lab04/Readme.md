@@ -590,3 +590,17 @@
 ![Captura10](ejercicio9/images/Captura10.PNG)
 
 ![Captura11](ejercicio10/images/Captura11.PNG)
+
+# Ejercicio 10
+
+![Captura](ejercicio10/images/Captura.PNG)
+
+![Captura1](ejercicio10/images/Captura1.PNG)
+
+![Captura2](ejercicio10/images/Captura2.PNG)
+
+![Captura3](ejercicio10/images/Captura3.PNG)
+
+![Captura4](ejercicio10/images/Captura4.PNG)
+
+![Captura5](ejercicio10/images/Captura5.PNG)
