@@ -1,0 +1,67 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.9/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.9",
+  "id": "fd67cc5a-9bcd-4ea7-91cb-90bda97031c3",
+  "version": "1.0.1",
+  "packageName": "conversationalbot",
+  "developer": {
+    "name": "davilaingrid",
+    "websiteUrl": "https://2be4-81-40-102-20.ngrok.io",
+    "privacyUrl": "https://2be4-81-40-102-20.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://2be4-81-40-102-20.ngrok.io/tou.html"
+  },
+  "name": {
+    "short": "Conversational Bot",
+    "full": "Conversational Bot"
+  },
+  "description": {
+    "short": "Conversational Bot",
+    "full": "Conversational Bot"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [],
+  "staticTabs": [],
+  "bots": [
+    {
+      "botId": "979fa9bf-15d7-48fa-bb1b-93c161b35366",
+      "needsChannelSelector": true,
+      "isNotificationOnly": false,
+      "scopes": [
+        "team",
+        "personal"
+      ],
+      "commandLists": [
+        {
+          "scopes": [
+            "team",
+            "personal"
+          ],
+          "commands": [
+            {
+              "title": "Help",
+              "description": "Shows help information"
+            },
+            {
+              "title": "MentionMe",
+              "description": "Sends message with @mention of the sender"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "2be4-81-40-102-20.ngrok.io"
+  ],
+  "showLoadingIndicator": false
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.8",
+  "id": "d9de0970-2317-11ec-8c3d-dd00f62b8e30",
+  "version": "0.0.1",
+  "packageName": "learnmsteamsssotab",
+  "developer": {
+    "name": "davilaingrid",
+    "websiteUrl": "https://teamssoappdavilaingrid.azurewebsites.net",
+    "privacyUrl": "https://teamssoappdavilaingrid.azurewebsites.net/privacy.html",
+    "termsOfUseUrl": "https://teamssoappdavilaingrid.azurewebsites.net/tou.html"
+  },
+  "name": {
+    "short": "SSO Teams Tab",
+    "full": "SSO Teams Tab"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://teamssoappdavilaingrid.azurewebsites.net/ssoTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "canUpdateConfiguration": true,
+      "scopes": [
+        "team"
+      ]
+    }
+  ],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "teamssoappdavilaingrid.azurewebsites.net"
+  ],
+  "showLoadingIndicator": false,
+  "webApplicationInfo": {
+    "id": "c76eeef4-661b-4af9-aab2-355f825ab371",
+    "resource": "api://teamssoappdavilaingrid.azurewebsites.net/c76eeef4-661b-4af9-aab2-355f825ab371"
+  }
+}
