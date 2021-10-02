@@ -1,0 +1,75 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.8",
+  "id": "0c0ce7a0-239e-11ec-a78b-91a98bad1891",
+  "version": "0.0.1",
+  "packageName": "learnmsteamsssobot",
+  "developer": {
+    "name": "davilaingrid",
+    "websiteUrl": "https://c53d-81-40-102-20.ngrok.io",
+    "privacyUrl": "https://c53d-81-40-102-20.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://c53d-81-40-102-20.ngrok.io/tou.html"
+  },
+  "name": {
+    "short": "SSO Teams Bot",
+    "full": "SSO Teams Bot"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [],
+  "staticTabs": [
+    {
+      "entityId": "96fec020-23a0-11ec-a78b-91a98bad1891",
+      "name": "SSO Bot",
+      "contentUrl": "https://c53d-81-40-102-20.ngrok.io/Bot/ssoBot.html",
+      "scopes": [
+        "personal"
+      ]
+    }
+  ],
+  "bots": [
+    {
+      "botId": "c76eeef4-661b-4af9-aab2-355f825ab371",
+      "needsChannelSelector": true,
+      "isNotificationOnly": false,
+      "scopes": [
+        "personal"
+      ],
+      "commandLists": [
+        {
+          "scopes": [
+            "personal"
+          ],
+          "commands": [
+            {
+              "title": "Help",
+              "description": "Shows help information"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "token.botframework.com",
+    ""
+  ],
+  "webApplicationInfo": {
+    "id": "c76eeef4-661b-4af9-aab2-355f825ab371",
+    "resource": "api://botid-c76eeef4-661b-4af9-aab2-355f825ab371"
+  },  
+  "showLoadingIndicator": false
+}
